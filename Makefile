@@ -1,0 +1,2 @@
+update-dependencies:
+	composer install
