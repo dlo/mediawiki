@@ -130,3 +130,31 @@
 	path = extensions/MobileFrontend
 	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
 	branch = REL1_36
+[submodule "extensions/TemplateStyles"]
+	path = extensions/TemplateStyles
+	url = https://github.com/wikimedia/mediawiki-extensions-TemplateStyles
+	branch = REL1_36
+[submodule "extensions/Graph"]
+	path = extensions/Graph
+	url = https://github.com/wikimedia/mediawiki-extensions-Graph.git
+	branch = REL1_36
+[submodule "extensions/TemplateWizard"]
+	path = extensions/TemplateWizard
+	url = https://github.com/wikimedia/mediawiki-extensions-TemplateWizard.git
+	branch = REL1_36
+[submodule "extensions/NukeDPL"]
+	path = extensions/NukeDPL
+	url = https://github.com/wikimedia/mediawiki-extensions-NukeDPL.git
+	branch = REL1_36
+[submodule "extensions/JsonConfig"]
+	path = extensions/JsonConfig
+	url = https://github.com/wikimedia/mediawiki-extensions-JsonConfig.git
+	branch = REL1_36
+[submodule "extensions/UserMerge"]
+	path = extensions/UserMerge
+	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge.git
+	branch = REL1_36
+[submodule "extensions/DeleteBatch"]
+	path = extensions/DeleteBatch
+	url = https://github.com/wikimedia/mediawiki-extensions-DeleteBatch.git
+	branch = REL1_36
