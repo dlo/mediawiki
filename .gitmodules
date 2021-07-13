@@ -162,3 +162,7 @@
 	path = vendor
 	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
 	branch = REL1_36
+[submodule "extensions/mediawiki-aws-s3"]
+	path = extensions/mediawiki-aws-s3
+	url = https://github.com/dlo/mediawiki-aws-s3.git
+	branch = REL1_36
