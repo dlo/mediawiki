@@ -122,10 +122,6 @@
 	path = skins/Vector
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Vector
 	branch = REL1_36
-[submodule "vendor"]
-	path = vendor
-	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
-	branch = REL1_36
 [submodule "extensions/MobileFrontend"]
 	path = extensions/MobileFrontend
 	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
@@ -161,4 +157,8 @@
 [submodule "extensions/Cargo"]
 	path = extensions/Cargo
 	url = https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Cargo
+	branch = REL1_36
+[submodule "vendor"]
+	path = vendor
+	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
 	branch = REL1_36
