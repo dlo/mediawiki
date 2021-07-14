@@ -170,3 +170,7 @@
 	path = skins/MinervaNeue
 	url = https://github.com/wikimedia/mediawiki-skins-MinervaNeue.git
 	branch = REL1_36
+[submodule "extensions/Math"]
+	path = extensions/Math
+	url = https://github.com/wikimedia/mediawiki-extensions-Math.git
+	branch = REL1_36
