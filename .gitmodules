@@ -166,3 +166,7 @@
 	path = extensions/mediawiki-aws-s3
 	url = https://github.com/dlo/mediawiki-aws-s3.git
 	branch = REL1_36
+[submodule "skins/MinervaNeue"]
+	path = skins/MinervaNeue
+	url = https://github.com/wikimedia/mediawiki-skins-MinervaNeue.git
+	branch = REL1_36
