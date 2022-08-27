@@ -7,7 +7,8 @@
 			"Kurdbuddha",
 			"Mjbmr",
 			"Paraw2",
-			"아라"
+			"아라",
+			"NR Deblocked"
 		]
 	},
 	"tog-numberheadings": "ژمارەکردنی خۆدکاری سەرتیترەکان",
@@ -114,6 +115,7 @@
 	"talk": "وەتوویش",
 	"views": "دۊننەگان",
 	"toolbox": "ئامڕازەگان",
+	"cactions": "فرەتر",
 	"otherlanguages": "وە زوانەیل ترەک",
 	"redirectedfrom": "(ڕەوانەکریاێ لە $1)",
 	"redirectto": "ڕەوانەکردن ئەڕاێ:",
@@ -328,6 +330,8 @@
 	"right-writeapi": "ئەوکاربردن API ئەڕاێ نۊساین",
 	"newuserlogpage": "پێرست درسکردن ئەوکاربەر",
 	"action-edit": "ئەی پەڕە وێراشتە بکە",
+	"action-move": "جیوەجی بکە",
+	"action-delete": "بسڕەوە",
 	"nchanges": "$1 {{PLURAL:$1|گووڕانکاری}}",
 	"enhancedrc-history": "دیروک",
 	"recentchanges": "دۊایین گووڕانکاریەیل",

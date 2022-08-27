@@ -34,7 +34,8 @@
 			"Les Meloures",
 			"Mschlindwein",
 			"Tigerfell",
-			"Zabe"
+			"Zabe",
+			"SaldırganSincap"
 		]
 	},
 	"tog-underline": "Links unterstreichen:",
@@ -312,7 +313,7 @@
 	"sitejspreview": "'''Beachten Sie, dass Sie nur eine Vorschau dieses JavaScript betrachten.'''\n'''Es wurde noch nicht gespeichert!'''",
 	"userinvalidconfigtitle": "'''Achtung:''' Die Benutzeroberfläche „$1“ existiert nicht. Bedenken Sie, dass benutzerspezifische .css- und .js-Seiten mit einem Kleinbuchstaben anfangen müssen, also beispielsweise ''{{ns:user}}:Mustermann/vector.css'' an Stelle von ''{{ns:user}}:Mustermann/Vector.css''.",
 	"previewconflict": "Diese Vorschau gibt den Inhalt des oberen Textfeldes wieder. So wird die Seite aussehen, wenn Sie jetzt speichern.",
-	"session_fail_preview": "'''Ihre Bearbeitung konnte nicht gespeichert werden, da Sitzungsdaten verloren gegangen sind.\nBitte versuchen Sie es erneut, indem Sie unter der folgenden Textvorschau nochmals auf „Seite speichern“ klicken.\nSollte das Problem bestehen bleiben, [[Special:UserLogout|melden Sie sich ab]] und danach wieder an.'''",
+	"session_fail_preview": "Entschuldigung! Wir konnten deine Bearbeitung nicht verarbeiten, da Sitzungsdaten verloren gegangen sind.\n\nDu wurdest eventuell abgemeldet. <strong>Bitte stelle sicher, dass du noch angemeldet bist, und versuche es erneut</strong>.\nFalls dies nicht funktioniert, versuche dich [[Special:UserLogout|abzumelden]] und anschließend wieder anzumelden und überprüfe, ob dein Browser Cookies von dieser Website akzeptiert.",
 	"session_fail_preview_html": "'''Ihre Bearbeitung konnte nicht gespeichert werden, da Sitzungsdaten verloren gegangen sind.'''\n\n''Da in {{SITENAME}} das Speichern von reinem HTML aktiviert ist, wurde die Vorschau ausgeblendet, um JavaScript-Attacken vorzubeugen.''\n\n'''Bitte versuchen Sie es erneut, indem Sie unter der folgenden Textvorschau nochmals auf „Seite speichern“ klicken.\nSollte das Problem bestehen bleiben, [[Special:UserLogout|melden Sie sich ab]] und danach wieder an.'''",
 	"token_suffix_mismatch": "'''Ihre Bearbeitung wurde zurückgewiesen, da Ihr Browser Zeichen im Bearbeiten-Token verstümmelt hat.\nEine Speicherung kann den Seiteninhalt zerstören. Dies geschieht bisweilen durch die Benutzung eines anonymen Proxy-Dienstes, der fehlerhaft arbeitet.'''",
 	"edit_form_incomplete": "'''Der Inhalt des Bearbeitungsformulars hat den Server nicht vollständig erreicht. Bitte prüfen Sie Ihre Bearbeitungen auf Vollständigkeit und versuchen Sie es erneut.'''",
@@ -541,5 +542,6 @@
 	"changecredentials-submit": "Anmeldeinformationen ändern",
 	"credentialsform-provider": "Typ der Anmeldeinformationen:",
 	"credentialsform-account": "Benutzername:",
-	"specialmute-error-no-options": "Stummschaltungs-Funktionen sind nicht verfügbar. Gründe dafür könnten sein: Sie haben Ihre E-Mail-Adresse nicht bestätigt, ein Administrator hat die E-Mail-Funktionen deaktiviert oder eine E-Mail-Negativliste in diesem Wiki eingerichtet."
+	"specialmute-error-no-options": "Stummschaltungs-Funktionen sind nicht verfügbar. Gründe dafür könnten sein: Sie haben Ihre E-Mail-Adresse nicht bestätigt, ein Administrator hat die E-Mail-Funktionen deaktiviert oder eine E-Mail-Negativliste in diesem Wiki eingerichtet.",
+	"userlogout-continue": "Möchten Sie sich abmelden?"
 }

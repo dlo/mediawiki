@@ -7,7 +7,8 @@
 			"Kaniina (on kl.wikipedia.org)",
 			"Qaqqalik",
 			"לערי ריינהארט",
-			"아라"
+			"아라",
+			"StarrySky"
 		]
 	},
 	"sunday": "Sapaat",
@@ -132,6 +133,7 @@
 	"nstab-template": "Ilisserut",
 	"nstab-help": "Ikiuutit",
 	"nstab-category": "Sumut atassuseq",
+	"mainpage-nstab": "Saqqaa",
 	"viewsource": "Toqqavia takuuk",
 	"protectedpagetext": "Una qupperneq allaffigineqarnissamut illersugaavoq.",
 	"viewsourcetext": "Qupperneq takusinnaavat aamma sanarfia kopeersinnaavat:",
@@ -218,6 +220,7 @@
 	"saveprefs": "Toqqukkit",
 	"yourlanguage": "Oqaatsit:",
 	"group-sysop": "Administratorit",
+	"action-move": "Nuuguk",
 	"recentchanges": "Allannguutit kingulliit",
 	"recentchanges-legend": "Inissisimaffiit allannguutini kingullerni",
 	"recentchanges-summary": "Uani quppernermi '''{{SITENAME}}'''-mi allannguutit kingulliit malinnaavigisinnaavatit.",

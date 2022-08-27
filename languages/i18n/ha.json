@@ -20,7 +20,9 @@
 			"Itzedubaba",
 			"Lamma64",
 			"Nura A Sani",
-			"Omar Ali"
+			"Omar Ali",
+			"Bello Na'im",
+			"Khalilulahi"
 		]
 	},
 	"tog-underline": "Zana layin link",
@@ -198,7 +200,7 @@
 	"delete": "Soke",
 	"undelete_short": "Wanda ba'a goge ba {{PLURAL:$1|gyara daya|$1 gyararraki}}",
 	"viewdeleted_short": "Duma {{PLURAL:$1|goge gyara daya|$1 goge gyararraki}}",
-	"protect": "Karewa",
+	"protect": "Ƙarewa",
 	"protect_change": "sauyawa",
 	"unprotect": "Canza kariya",
 	"newpage": "Sabon shafi",
@@ -470,6 +472,8 @@
 	"newuserlogpage": "Rajistan sabbin akwantoci",
 	"rightslog": "Rajistan bayar da izini ga ma'aikata",
 	"action-edit": "gyara wannan shafi",
+	"action-move": "Gusarwa",
+	"action-delete": "Soke",
 	"nchanges": "{{PLURAL:$1|sauyi|sauye-sauye}} $1",
 	"enhancedrc-history": "Tarihi",
 	"recentchanges": "Sauye-sauyen baya-bayan nan",
@@ -774,6 +778,7 @@
 	"fileduplicatesearch-submit": "Nema",
 	"specialpages": "Shafuna na musamman",
 	"tag-list-wrapper": "[[Special:Tags|{{PLURAL:$1|Tag|Tags}}]]: $2",
+	"htmlform-submit": "Shigar da sakon",
 	"logentry-newusers-create": "Anyi kirkiri sabon account $1",
 	"logentry-upload-upload": "$1 {{GENDER:$2|ya loda|ta loda}} $3",
 	"searchsuggest-search": "Binciko {{SITENAME}}",
