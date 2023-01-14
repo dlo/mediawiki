@@ -1,0 +1,10 @@
+cd DeleteBatch && git checkout REL1_39 && cd ..
+cd Graph && git checkout REL1_39 && cd ..
+cd JsonConfig && git checkout REL1_39 && cd ..
+cd LocalisationUpdate && git checkout REL1_39 && cd ..
+cd MobileFrontend && git checkout REL1_39 && cd ..
+cd NukeDPL && git checkout REL1_39 && cd ..
+cd TemplateStyles && git checkout REL1_39 && cd ..
+cd TemplateWizard && git checkout REL1_39 && cd ..
+cd UserMerge && git checkout REL1_39 && cd ..
+cd mediawiki-aws-s3 && git checkout REL1_39 && cd ..
