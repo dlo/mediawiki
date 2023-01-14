@@ -6,6 +6,10 @@
 	path = extensions/CategoryTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTree
 	branch = REL1_39
+[submodule "extensions/Cargo"]
+	path = extensions/Cargo
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cargo
+	branch = REL1_39
 [submodule "extensions/Cite"]
 	path = extensions/Cite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cite
